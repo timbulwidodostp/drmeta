@@ -1,5 +1,11 @@
-d 'DEA': Data envelopment analysis
+d 'DEA': Performing dose-response meta-analysis of summarized data Use drmeta With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f drmeta.ado
+f drmeta.sthlp
+f drmeta_cov.ado
+f drmeta_gof.ado
+f drmeta_gof.sthlp
+f drmeta_graph.ado
+f drmeta_graph.sthlp
+f drmeta_predict.ado
+f drmeta_predict.sthlp
