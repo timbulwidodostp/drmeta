@@ -2,4 +2,4 @@
 1
 2
 3
-p dea Data envelopment analysis
+p drmeta Performing dose-response meta-analysis of summarized data Use drmeta With STATA 18
