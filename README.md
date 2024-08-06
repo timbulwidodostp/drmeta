@@ -1,6 +1,8 @@
 # drmeta
 Performing dose-response meta-analysis of summarized data Use drmeta With STATA 18
 
+https://www.youtube.com/watch?v=bEmHk9GAhjw
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
